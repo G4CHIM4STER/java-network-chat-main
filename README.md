@@ -7,6 +7,9 @@ ____
 - IDE: IntelliJ IDEA
 - Управление проектом: Maven
 - Управление версиями: Github
+- Java 18
+- GUI: Swing
+- База данных: SQLite
 
 ## Основной функционал
 
